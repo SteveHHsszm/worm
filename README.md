@@ -1,1 +1,1 @@
-please open it by virtual machine
+Please run in a virtual machine environment
